@@ -1,0 +1,20 @@
+{
+  "plugGauche": {
+    "info": {},
+    "data": [
+      {
+        "time": 1547655298709,
+        "status": 1
+      }
+    ]
+  },
+  "plugDroite": {
+    "info": {},
+    "data": [
+      {
+        "time": 1547655298704,
+        "status": 2
+      }
+    ]
+  }
+}
